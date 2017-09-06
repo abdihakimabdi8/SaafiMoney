@@ -1,0 +1,6 @@
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\bin\Debug\SaafiMobile.dll
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\bin\Debug\SaafiMobile.pdb
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\obj\Debug\SaafiMobile.csprojResolveAssemblyReference.cache
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\obj\Debug\SaafiMobile.csproj.CoreCompileInputs.cache
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\obj\Debug\SaafiMobile.dll
+C:\Users\habdi\desktop\SaafiMobile\SaafiMobile\SaafiMobile\obj\Debug\SaafiMobile.pdb
